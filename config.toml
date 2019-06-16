@@ -1,0 +1,67 @@
+## Basic Configuration
+baseurl = "https://fishbowler.net/"
+languageCode = "en"
+
+title = "Home"
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+googleAnalytics = "UA-142196820-1"
+# enableRobotsTXT = true
+
+# summarylength = 30
+
+paginate = 10
+
+## Site Settings
+[params]
+    author = "Dan Caseley"
+    title = "Something"
+    description = "thoughts on testing and technology"
+    authorimage = "//0.gravatar.com/avatar/eccece11cfbd7f27a196e21e70c68b2d?s=180"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    copyright = "Dan Caseley"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    stackoverflow = "399007"
+    twitter = "fishbowler"
+    github = "fishbowler"
+    linkedin = "dan-caseley-8a20215"
+    gravatar = "dan@caseley.me.uk"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Portfolio"
+    identifier = "portfolio"
+    weight = 200
+    url = "/portfolio/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"
