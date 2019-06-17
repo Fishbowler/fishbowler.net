@@ -11,7 +11,7 @@ It's a game I've both seen as part of training courses on specification ambiguit
 Do you remember Guess Who?  
   
 
-[![](https://images-na.ssl-images-amazon.com/images/I/916LTBE1S%2BL._SX355_.jpg)](https://images-na.ssl-images-amazon.com/images/I/916LTBE1S%2BL._SX355_.jpg)
+![](/img/guess_who.jpg)
 
   
 It's a game where players take turns asking yes/no questions about the appearance of the character on  their opponent's card, aiming to be first to identify the character their opponent holds.  

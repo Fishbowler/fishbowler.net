@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://fishbowler.net/"
+baseurl = "https://fishbowler-net.firebaseapp.com/"
 languageCode = "en"
 
 title = "Home"
