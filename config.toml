@@ -17,7 +17,7 @@ paginate = 10
 ## Site Settings
 [params]
     author = "Dan Caseley"
-    title = "Something"
+    title = "Dan Caseley"
     description = "thoughts on testing and technology"
     authorimage = "//0.gravatar.com/avatar/eccece11cfbd7f27a196e21e70c68b2d?s=180"
     dateformat = "Jan 2, 2006"
