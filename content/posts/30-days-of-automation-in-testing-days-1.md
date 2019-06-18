@@ -1,6 +1,7 @@
 ---
 title: '30 Days of Automation in Testing - Days 1 to 4'
 date: 2018-07-11
+categories : ["testing"]
 draft: false
 ---
 

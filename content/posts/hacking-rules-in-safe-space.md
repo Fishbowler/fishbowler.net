@@ -1,6 +1,7 @@
 ---
 title: 'Hacking the rules (in a safe space)'
 date: 2018-05-29
+categories : ["testing"]
 draft: false
 ---
 

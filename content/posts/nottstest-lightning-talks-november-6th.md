@@ -1,6 +1,7 @@
 ---
 title: 'NottsTest Lightning Talks - November 6th'
 date: 2018-11-12
+categories : ["testing"]
 draft: false
 ---
 

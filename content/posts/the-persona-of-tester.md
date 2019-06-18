@@ -2,6 +2,7 @@
 title: 'The Persona of a Tester'
 date: 2015-04-10T05:22:00.004-07:00
 draft: false
+categories : ["testing"]
 ---
 
 Hey it's springtime, and there's a new testing blog, so given the time of year, you should be expecting a write-up of my experiences at the recent (and excellent!) TestBash 2015.  
