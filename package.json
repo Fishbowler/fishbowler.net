@@ -5,7 +5,7 @@
   "scripts": {
     "build": "hugo",
     "deploy": "firebase deploy --token=$FIREBASE_DEPLOY_TOKEN",
-    "test": "docker run -v $PWD/public/:/root/public cibuilds/hugo htmlproofer /root/public --allow-hash-href --check-html --internal-domains='fishbowler-net.firebaseapp.com' --empty-alt-ignore --http-status-ignore=999"
+    "test": "docker run -v $PWD/public/:/root/public cibuilds/hugo htmlproofer /root/public --allow-hash-href --check-html --internal-domains='fishbowler-net.web.app','localhost:1313' --empty-alt-ignore --http-status-ignore=999"
   },
   "author": "Dan Caseley",
   "devDependencies": {
