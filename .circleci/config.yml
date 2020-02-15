@@ -1,0 +1,59 @@
+defaults: &defaults
+  working_directory: ~
+
+version: 2
+jobs:
+  build:
+    <<: *defaults
+    docker:
+      - image: 'cibuilds/hugo:latest'
+    steps:
+      - checkout
+      - run: git submodule sync
+      - run: git submodule update --init
+      - run:
+          name: Build
+          command: HUGO_ENV=production hugo -v
+      - run:
+         name: Test
+         command: htmlproofer ~/project/public --allow-hash-href --check-html --internal-domains='fishbowler-net.web.app' --empty-alt-ignore --http-status-ignore=999
+      - persist_to_workspace:
+          root: .
+          paths:
+            - .firebaserc
+            - firebase.json
+            - package.json
+            - package-lock.json
+            - public
+  deployment:
+    <<: *defaults
+    docker:
+      - image: circleci/node:latest
+    steps:
+      - attach_workspace:
+          at: .
+      - restore_cache: # special step to restore the dependency cache 
+          key: dependency-cache-{{ checksum "package.json" }}
+      - run:
+          name: Install dependencies
+          command: npm i
+      - save_cache: # special step to save the dependency cache
+          key: dependency-cache-{{ checksum "package.json" }}
+          paths:
+            - ./node_modules
+      - run:
+          name: Deploy
+          command: npm run deploy
+
+workflows:
+  version: 2
+
+  pipeline:
+    jobs:
+      - build
+      - deployment:
+          requires:
+            - build
+          filters:
+            branches:
+              only: master
