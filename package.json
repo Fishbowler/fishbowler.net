@@ -9,6 +9,6 @@
   },
   "author": "Dan Caseley",
   "devDependencies": {
-    "firebase-tools": "^7.0.0"
+    "firebase-tools": "^7.13.0"
   }
 }
