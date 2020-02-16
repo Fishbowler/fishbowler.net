@@ -2,7 +2,7 @@
 baseurl = "https://fishbowler.net/"
 languageCode = "en"
 
-title = "Home"
+title = "fishbowler.net"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -16,6 +16,7 @@ paginate = 10
 
 ## Site Settings
 [params]
+    layoutReverse = true
     author = "Dan Caseley"
     title = "Dan Caseley"
     description = "thoughts on testing and technology"
@@ -26,7 +27,7 @@ paginate = 10
     copyright = "Dan Caseley"
     license = "CC BY-SA 4.0"
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
-    showBuiltWith = true
+    showBuiltWith = false
 
     # https://highlightjs.org
     highlightjs = true
