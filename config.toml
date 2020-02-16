@@ -1,5 +1,5 @@
 ## Basic Configuration
-baseurl = "https://fishbowler-net.web.app/"
+baseurl = "https://fishbowler.net/"
 languageCode = "en"
 
 title = "Home"
