@@ -1,9 +1,9 @@
 ---
 title: "The Value of Automation"
-date: 2020-02-16
+date: 2020-02-17
 categories : ["testing", "technology"]
 layout: post
-draft: true
+draft: false
 ---
 
 I've been asked many times to discuss test automation and its value to my team.
