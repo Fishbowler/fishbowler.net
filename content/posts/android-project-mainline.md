@@ -3,7 +3,7 @@ title: "What is Android’s Project Mainline, and what will it do for business?"
 date: 2019-09-06
 categories : ["technology"]
 layout: post
-draft: true
+draft: false
 ---
 
 Here we are in early September, and Android 10 has just been released. It’s got lots of new features that might excite average users:

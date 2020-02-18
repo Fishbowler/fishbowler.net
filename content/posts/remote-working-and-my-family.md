@@ -3,7 +3,7 @@ title: "Remote Working, Surevine and My Family"
 date: 2020-01-09
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Remote working means something different for everyone who's done it. For me, there are some very clear reasons as to why remote and flexible working are a must-have.
