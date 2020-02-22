@@ -19,6 +19,7 @@ The next step was to plan my learning. I don't mean a lesson plan or anything so
 * to capture the stuff I would learn, to set myself high-level goals and make myself accountable to them
 * have ways capture as I went the things that I encountered that I might like to learn
 
+To begin, I revisited something I used in a previous company, the [Brickceptional Opportunity Board](http://erik.brickarp.se/p/bob.html). 
 TODO:
 //Personal opportunity board
 //Whiteboard
