@@ -19,7 +19,17 @@ The next step was to plan my learning. I don't mean a lesson plan or anything so
 * to capture the stuff I would learn, to set myself high-level goals and make myself accountable to them
 * have ways capture as I went the things that I encountered that I might like to learn
 
-To begin, I revisited something I used in a previous company, the [Brickceptional Opportunity Board](http://erik.brickarp.se/p/bob.html). 
+To begin, I revisited something I used in a previous company, the [Brickceptional Opportunity Board](http://erik.brickarp.se/p/bob.html). I'd used this to plan against individual OKRs, and advertise it to my team as something they could do. This served two purposes: to capture the very high-level stuff, like topics and conferences, but was a also a format that worked well for Confluence, so holds me accountable to everyone I work with. A current example: "Relearn Java, starting with the [Intro to Java](https://automationintesting.com/java/course/) from Automation In Testing".
+
+Next, I made use of my whiteboard. Reasonable sized chunks of learning (a few hours) that pop up in day-to-day work go onto an area of the whiteboard. A current example is "Learn about how XMPP clients work by opening 1 pull request on Spark" (although of course, the actual scrawl on my whiteboard isn't so long-form, or so legible!). These get triaged more regularly. Stuff gets completed more regularly, but stuff also becomes stale or irrelevant more quickly as either my project changes or my interest in a topic wanes.
+
+For shorter stuff, I often use (hold your gasps) open tabs (I often run to 40+ tabs across 2 windows). A current example is [NCSC's Zero Trust Architecture Principles](https://www.ncsc.gov.uk/blog-post/zero-trust-architecture-design-principles). It's only 30-60 minutes work to get some value from, so will likely happen some time this week. Like many people, I also have post-its for general stuff to remember (like remember to post interesting )
+
+Outcomes:
+
+* I'm always prepared to choose something to learn when I've got time, be it 30 mins, a few hours, or a week.
+* I'm always prepared for a conversation with my boss or my team about what I am and what I should be learning.
+
 TODO:
 //Personal opportunity board
 //Whiteboard
