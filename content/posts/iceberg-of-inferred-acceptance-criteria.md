@@ -1,6 +1,6 @@
 ---
 title: "The Iceberg of Inferred Acceptance Criteria"
-date: 2022-12-02
+date: 2022-11-25
 categories : ["testing"]
 layout: post
 draft: true

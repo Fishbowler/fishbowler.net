@@ -1,6 +1,6 @@
 ---
 title: "Can you automate a tester?"
-date: 2023-01-27
+date: 2022-12-02
 categories : ["testing"]
 layout: post
 draft: true
