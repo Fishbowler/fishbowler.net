@@ -1,7 +1,8 @@
 .site__title {
-    font-size: 1.75rem
-}
-
+    font-size: 1.75rem; }
+    .site__title a {
+      word-wrap: normal; }
+      
 @media (min-width: 992px){
     .layout-reverse .content {
         max-width: 44rem;
