@@ -17,7 +17,7 @@ Do you remember Guess Who?
   
 It's a game where players take turns asking yes/no questions about the appearance of the character on  their opponent's card, aiming to be first to identify the character their opponent holds.  
   
-Shared Assumptions is a game where you play the same game with the same rules, except that you _aren't allowed to ask anything about appearance_. I've played this game with friends, with kids, with colleagues, with testers. It's great fun watching people use creative thinking to hack around the seemingly impossible rules. (Writing this reminds me of [Nicola Sedgwick](https://twitter.com/nicolasedgwick)'s awesome workshop on Gamification at TestBash 2015. Nicola wrote about Gamification for MoT [here](https://www.ministryoftesting.com/dojo/series/the-testing-planet-archive/lessons/gamification-and-software-testing))
+Shared Assumptions is a game where you play the same game with the same rules, except that you _aren't allowed to ask anything about appearance_. I've played this game with friends, with kids, with colleagues, with testers. It's great fun watching people use creative thinking to hack around the seemingly impossible rules. (Writing this reminds me of [Nicola Sedgwick](https://twitter.com/nicolasedgwick)'s awesome workshop on Gamification at TestBash 2015. Nicola wrote about Gamification for The Testing Planet [here](https://www.ministryoftesting.com/articles/c78f3e91?s_id=15998985))
   
 If you've never played these rules, I truly encourage you to try this game.  
   
