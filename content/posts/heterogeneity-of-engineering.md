@@ -2,7 +2,7 @@
 title: 'Celebrating the Heterogeneity of Engineering'
 date: 2021-05-03
 categories : ["testing"]
-draft: true
+draft: false
 ---
 
 Alternative titles I considered: "The Argument Against Knowledge Sharing", and "Yet Another Post About Story Points".
@@ -11,9 +11,9 @@ I was reading an excellent introductory article about collective computing recen
 
 You know where I'm going with this.
 
-Every team I've worked on has a propensity of continuous improvers, people who are constantly, actively and intentionally learning new skills and information. Tech teams (and their associated employers) invest great effort into disseminating learning. To maximise on any learning, R&D or course, they want to share that knowledge across all of their engineers. If Alice is on a course this week, then she'll be scheduled to demo what she's learned next week. This is not only beneficial to the company, but also pleases those aforementioned continuous improvers who are in constant receipt of these learning broadcasts.
+Every team I've worked on has a propensity of continuous improvers, people who are constantly, actively and intentionally learning new skills and information. Tech teams (and their associated employers) invest great effort into disseminating learning. To maximise on any learning, be it R&D or an organised course, they want to share that knowledge across all of their engineers. If Alice is on a course this week, then she might well be scheduled to demo what she's learned next week. This is not only beneficial to the company, but also pleases those aforementioned continuous improvers who are in constant receipt of these learning broadcasts.
 
-The example of the collective computing says that whilst the endeavour is good, perhaps the goal is bad. That if we got too good at sharing our experiences with one-another, we'd all be the same, tackling the same problems with the same tools and the same insights, and when faced with a knowledge gap, using the same search engine keywords to seek out the same next puzzle piece.
+The example of the collective computing says that whilst the endeavour is good, perhaps the outcome is bad. That if we got _too_ good at sharing our experiences with one-another, we'd all be the same, tackling the same problems with the same tools and the same insights, and when faced with a knowledge gap, using the same search engine keywords to seek out the same next puzzle piece.
 
 Beyond the single use case pointed out, maybe there are other arguments for or against a goal of cultural / knowledge homogeny within a team?
 
