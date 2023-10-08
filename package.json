@@ -6,10 +6,10 @@
     "build": "docker run --rm -e HUGO_ENV=production -v $PWD:/app/ -w /app/ cibuilds/hugo hugo",
     "server": "docker run --rm -d -p 1313:1313 -v $PWD:/app/ -w /app/ cibuilds/hugo hugo server --buildDrafts --buildFuture --bind 0.0.0.0",
     "deploy": "firebase deploy --token=$FIREBASE_DEPLOY_TOKEN",
-    "test": "docker run -v $PWD/public/:/src/public cibuilds/hugo htmlproofer /src/public --allow-hash-href --check-html --internal-domains='fishbowler.net','fishbowler-net.web.app','localhost:1313' --empty-alt-ignore --http-status-ignore=999"
+    "test": "docker run -v $PWD/public/:/src/public cibuilds/hugo htmlproofer /src/public --allow-hash-href --check-html --internal-domains='fishbowler.net','fishbowler-net.web.app','localhost:1313' --empty-alt-ignore --http-status-ignore=999 --url-ignore 'https://developer.android.com/about/dashboards','https://source.android.com/security/bulletin/2019-08-01#2019-08-05-details','/t.co/','/twitter.com/'"
   },
   "author": "Dan Caseley",
   "devDependencies": {
-    "firebase-tools": "^7.13.0"
+    "firebase-tools": "^12.6.0"
   }
 }
