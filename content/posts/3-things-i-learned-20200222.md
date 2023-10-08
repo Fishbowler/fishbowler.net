@@ -20,4 +20,6 @@ Some bonus observations:
 * Every time I look at XMPP, I learn a little more about how people are using it, and the amount of work that regularly goes into evolving it. If you've got a use case, there's a good chance that someone else has had it already. They might've [extended XMPP](https://xmpp.org/extensions/) to support it, or maybe your favourite XMPP server has a [plugin](https://www.igniterealtime.org/projects/openfire/plugins.jsp) for it.
 * People say naming stuff is hard. It isn't. Explaining stuff is hard. Teaching stuff is hard. I've never seen it explained better than this quote from a Google employee:
 
-{{< tweet 1227344603847823360 >}}
+{{< blockquote >}}
+with systems the scale of Google's, it's basically choose two of {accurate, easy to understand, doesn't take two weeks to read}
+{{< /blockquote >}}

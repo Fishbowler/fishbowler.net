@@ -37,7 +37,7 @@ Next came Christian with an announcement on behalf of Ministry of Testing and th
 {{< tweet 1060261699138342913 >}}
 
   
-Penultimate talk was by George, who spoke about the feeling of being secure on the internet, and why you're wrong. He spoke about the [recent site](https://www.nothingprivate.ml/) that demonstrated being able to see personal info from an Incognito Window, and promised a fuller talk & demo in the future.  
+Penultimate talk was by George, who spoke about the feeling of being secure on the internet, and why you're wrong. He spoke about a recent site (http://web.archive.org/web/20230607212106/https://www.nothingprivate.ml/) that demonstrated being able to see personal info from an Incognito Window, and promised a fuller talk & demo in the future.
   
 {{< tweet 1060274668320555008 >}}
 
