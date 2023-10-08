@@ -28,7 +28,7 @@ jobs:
   deployment:
     <<: *defaults
     docker:
-      - image: circleci/node:latest
+      - image: cimg/node:latest
     steps:
       - attach_workspace:
           at: .
