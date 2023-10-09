@@ -8,3 +8,8 @@
         max-width: 44rem;
     }
 }
+
+body.dark-mode {
+    background-color: rgb(45, 45, 45);
+    color: #f5f5f5;
+}
