@@ -39,7 +39,7 @@ questioning and learning-playful product interaction
 
 trying to keep your focus while you’re managing distraction
 
-sensemaking, myth-breaking, decision making, no faking
+sense-making, myth-breaking, decision making, no faking
 
 stressing out the product to discover where it’s breaking
 
@@ -75,7 +75,7 @@ pattern recognition, distributed cognition
 
 helping shy colleagues get over inhibition
 
-building coverage models, analyzing risk
+building coverage models, analysing risk
 
 eliminating waste, trying to keep the pace brisk
 
@@ -124,7 +124,7 @@ Here's an attempt...
 | trying to look beyond the predicted expectation             | Thinking creatively and trying to anticipate how users may use the software in unexpected ways.                                                                                                                                                    |
 | questioning and learning-playful product interaction        | Interacting with the software in playful ways to uncover issues and learn about its capabilities.                                                                                                                                                  |
 | trying to keep your focus while you’re managing distraction | Staying focused on the testing process even when distractions or interruptions occur.                                                                                                                                                              |
-| sensemaking, myth-breaking, decision making, no faking      | Using critical thinking skills to make informed decisions and challenge assumptions about the software.                                                                                                                                            |
+| sense-making, myth-breaking, decision making, no faking     | Using critical thinking skills to make informed decisions and challenge assumptions about the software.                                                                                                                                            |
 | stressing out the product to discover where it’s breaking   | Testing the software under extreme conditions to uncover any weaknesses or issues.                                                                                                                                                                 |
 | refining test approaches through deliberate practice        | Continuously improving the testing process through deliberate practice and refinement of testing techniques.                                                                                                                                       |
 | how could hackers hack this? don’t give them access!        | Considering potential security vulnerabilities and testing the software with the mindset of a malicious hacker.                                                                                                                                    |
@@ -142,13 +142,13 @@ Here's an attempt...
 | applying critical thinking confirmation is for fools        | Emphasizing the importance of critical thinking and questioning during testing rather than relying solely on confirmation bias                                                                                                                     |
 | pattern recognition, distributed cognition                  | Using pattern recognition and distributed cognition to understand complex systems and identify potential issues                                                                                                                                    |
 | helping shy colleagues get over inhibition                  | Supporting and mentoring colleagues who are hesitant or lacking confidence in testing                                                                                                                                                              |
-| building coverage models, analyzing risk                    | Developing coverage models and analyzing risk to ensure thorough testing                                                                                                                                                                           |
+| building coverage models, analysing risk                    | Developing coverage models and analysing risk to ensure thorough testing                                                                                                                                                                           |
 | eliminating waste, trying to keep the pace brisk            | Minimizing unnecessary activities and trying to maintain a fast pace during testing                                                                                                                                                                |
 | wrestling with problems in the setup of environments        | Troubleshooting issues with the setup and configuration of testing environments                                                                                                                                                                    |
 | interviewing users to discover their requirements           | Conducting interviews with users to identify their needs and requirements for the software                                                                                                                                                         |
 | interrupted and disrupted ‘cos the product’s full of bugs   | Facing disruptions and interruptions during testing due to the presence of bugs in the software                                                                                                                                                    |
 | a check’s a part of testing encoded in algorithm            | Acknowledging that automated checks are an essential part of testing, but they are not the only form of testing                                                                                                                                    |
 | testing’s much more than automated checks and test cases    | Highlighting that testing is more than just automated checks and test cases and involves human variation and critical thinking                                                                                                                     |
-| human variation puts the product through its paces          | Emphasizing that the uniqueness and variation in human behavior put the product to the test during testing                                                                                                                                         |
+| human variation puts the product through its paces          | Emphasizing that the uniqueness and variation in human behaviour put the product to the test during testing                                                                                                                                         |
 | use the tools powerfully, that’s what I’m suggesting        | Encouraging the use of testing tools to their full potential                                                                                                                                                                                       |
 | but don’t try to tell me you can automate the testing!      | Acknowledging the importance of automation in testing but also recognizing that testing involves human variation and critical thinking that cannot be entirely automated                                                                           |

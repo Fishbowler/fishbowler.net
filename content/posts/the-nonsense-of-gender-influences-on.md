@@ -20,7 +20,7 @@ If this were true, these give some interesting ideas towards lots of aspects of 
   
 But there was science! Admittedly, it's "edutainment" science, but they had people on with doctorates who explained things. I struggled to reconcile this. Then they gave me the fact about the taxi drivers, and it was all made clear.  
   
-Taxi drivers have a larger hippocampus because of their constant effort in tactical route selection and thier dependency on short and long term memory. Like a trained muscle, practising this activity makes them better at it, and as they hit the peak in their training, the task becomes easier.  
+Taxi drivers have a larger hippocampus because of their constant effort in tactical route selection and their dependency on short and long term memory. Like a trained muscle, practising this activity makes them better at it, and as they hit the peak in their training, the task becomes easier.  
 It stands to reason here that the male taxi driver will follow a route better than the female new driver.  
   
 My takeaway here is that an experienced person would trump any gender-enabled amateur, and that anyone can do anything they want to with some practice. As a very tall person who _has_ attempted basketball and racket sports this would appear to hold true.
