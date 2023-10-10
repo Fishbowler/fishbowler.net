@@ -3,7 +3,7 @@ title: "Coverage"
 date: 2023-10-10
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Recently, I was part of a discussion on LinkedIn about whether a Test Automation Engineer was required in order to reach 100% coverage of a set of a new features, or whether a group of developers could get there without the specialist expertise.
