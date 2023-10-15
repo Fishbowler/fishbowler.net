@@ -19,7 +19,8 @@ jobs:
           name: Test
           command: htmlproofer ~/project/public --allow-hash-href --check-html
             --internal-domains='fishbowler.net','fishbowler-net.web.app'
-            --empty-alt-ignore --http-status-ignore=999
+            --empty-alt-ignore 
+            --http-status-ignore=429,999
             --url-ignore='http://localhost:1313','https://developer.android.com/about/dashboards','https://source.android.com/security/bulletin/2019-08-01#2019-08-05-details','/t.co/','/twitter.com/'
       - persist_to_workspace:
           root: .
