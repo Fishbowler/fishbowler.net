@@ -44,7 +44,7 @@ cp -r themes/hyde/exampleSite/* .
 
 ### Step 4: Fix up the config.toml
 
-Hugo has a few different config file formats, but toml is the default and the most common. It's named config.toml, and lives in the root of the folder. If you copied the exampleSite, you can amend the config.toml that will have been copied along with it, but even if you're amending rather than writing from scratch, you'll still want the theme's readme to see all of the avialable options.
+Hugo has a few different config file formats, but toml is the default and the most common. It's named config.toml, and lives in the root of the folder. If you copied the exampleSite, you can amend the config.toml that will have been copied along with it, but even if you're amending rather than writing from scratch, you'll still want the theme's readme to see all of the available options.
 
 {{< highlight toml >}}
 baseURL = "http://example.org/"
