@@ -1,8 +1,8 @@
 ---
 title: 'Considerations for Local Test Environments'
-date: 2023-10-13
+date: 2023-12-15
 categories : ["testing"]
-draft: true
+draft: false
 ---
 
 Dev, Int, Ref, Beta, Pilot, Pre-Prod, and lots of other labels for deployed environments of software that aren't The Production Environment.
@@ -43,4 +43,4 @@ Last time I planned a local test environment, I wrote some notes, and I've tidie
 * Do you need any 3rd party component mocks, e.g. analytics?
 * What else does your app have?
 
-Your mileage is gonna vary as to how complete the above lists are for your environment, but hopefully it's useful.
+Of course a bunch of these questions apply to non-local environments too. Your mileage is gonna vary as to how complete the above lists are for your environment, but I hope you find it useful. Find me on Twitter / LinkedIn / Mastodon / in real life, and let me know if there's stuff that I've missed that I should've been thinking about.
