@@ -3,7 +3,7 @@ title: "Tacit & Explicit Knowledge"
 date: 2023-09-04
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Dual Process Theory says that our brains work in two ways, often in parallel. One is reasoned and methodical, creating and executing on plans, analysing information, etc. The other is emotional, instinctual and cultural, acting on impulses, and taught to us from stimuli throughout our lives. This model maps directly to software implementation and testing. Some bugs are found by creating a set of actions and expectations, executing them and flagging when an expectation isn’t met. Others are more instinctual, or are obvious “that ain’t right” moments.

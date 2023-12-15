@@ -3,7 +3,7 @@ title: "Testers aren’t threatened by ChatGPT"
 date: 2023-02-15
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Testing, in every company the world over, has always been under threat.

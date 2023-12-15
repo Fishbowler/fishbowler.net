@@ -3,7 +3,7 @@ title: "Is it a bug?"
 date: 2023-01-13
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 ## What counts as a bug?

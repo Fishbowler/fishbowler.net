@@ -3,7 +3,7 @@ title: "Michael Bolton's Test Rap: Scorecard Edition"
 date: 2023-02-20
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 As part of his keynote at QAFest in Kyiv in 2018, Michael Bolton did a performance of his Test Rap, inspired by Hamilton.

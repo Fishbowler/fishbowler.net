@@ -3,7 +3,7 @@ title: "Scaling up is good, but the how is hard"
 date: 2023-04-14
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Inspired by the [CAST 2014 Keynote](https://www.youtube.com/watch?v=K6gIQYfXn5Q) by Trish Khoo

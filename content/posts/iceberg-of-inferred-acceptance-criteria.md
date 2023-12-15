@@ -3,10 +3,10 @@ title: "The Iceberg of Inferred Acceptance Criteria"
 date: 2022-11-25
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
-When refining a ticket we come up with Acceptance Criteria, deemed to be “The stuff that needs to be done in order to ship”. A piece of work must meet these criteria in order to ship.
+When refining a ticket at Peppy (and likely lots of other places) we come up with Acceptance Criteria, deemed to be “The stuff that needs to be done in order to ship”. A piece of work must meet these criteria in order to ship.
 
 They’re inherently incomplete. They can’t possibly list everything.
 

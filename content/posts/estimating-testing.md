@@ -3,7 +3,7 @@ title: "Estimating Testing"
 date: 2023-06-07
 categories : ["testing"]
 layout: post
-draft: true
+draft: false
 ---
 
 Whilst we’d love to be in a world without deadlines, pesky capitalism means not only needing to have external commitments and deadlines, but also internal planning and commitments to each other to complete work in a timely fashion, often with goalposts. They’re not deadlines, but they’re expectations.
