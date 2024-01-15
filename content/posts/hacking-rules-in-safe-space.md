@@ -34,7 +34,7 @@ Sometimes the results are plain odd:
 
 *   has large feet
 *   likes beach holidays
-*   allowed on a rollercoaster
+*   allowed on a roller coaster
 *   has experienced a significant life trauma
 
 I've loved playing and facilitating this game, showing groups that in about two thirds of games there's no winner because the pair didn't share an assumption somewhere along the line.  
