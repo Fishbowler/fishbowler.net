@@ -3,7 +3,7 @@ title: "Continuous Learning about Learning"
 date: 2024-01-15
 categories : ["learning", "technology"]
 layout: post
-draft: true
+draft: false
 ---
 
 I spent time in 2020 focussing on learning teaching skills. I knew that I already taught people both at work and in the testing community, but I was also acutely aware that there's an entire industry of trained pedagogues out there, with actual proper skills that I didn't have, and I could certainly learn to improve. There's probably another post in what I learned, but lately I'm trying to focus on being more aware of my learning.
