@@ -4,6 +4,7 @@ date: 2016-08-29
 draft: false
 tags : [t7]
 categories : ["testing"]
+layout: post
 ---
 
 During a recent conversation on Testers.io, I asked whether anyone had cool resources or ideas that I could take to my test team meeting as an activity to keep everyone thinking. My team is mixed level, so I want activities that add XP to my juniors but without boring the seniors. (Side note: I hate junior/senior terminology, and want something better. Ideas?)
