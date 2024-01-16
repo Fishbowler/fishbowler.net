@@ -2,6 +2,7 @@
 title: 'The Carwash Analogy'
 date: 2015-04-24
 categories : ["testing"]
+layout: post
 draft: false
 ---
 

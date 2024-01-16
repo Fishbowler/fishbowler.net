@@ -3,6 +3,7 @@ title: 'Celebrating the Heterogeneity of Engineering'
 date: 2021-05-03
 categories : ["testing"]
 draft: false
+layout: post
 ---
 
 Alternative titles I considered: "The Argument Against Knowledge Sharing", and "Yet Another Post About Story Points".

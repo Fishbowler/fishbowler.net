@@ -3,6 +3,7 @@ title: '30 Days of Automation in Testing - Days 1 to 4'
 date: 2018-07-11
 categories : ["testing"]
 draft: false
+layout: post
 ---
 
 [![](https://d2h1nbmw1jjnl.cloudfront.net/lesson_resources/resources/000/000/179/original/Automation_in_Testing_Badge.png?1530193025)](https://d2h1nbmw1jjnl.cloudfront.net/lesson_resources/resources/000/000/179/original/Automation_in_Testing_Badge.png?1530193025)

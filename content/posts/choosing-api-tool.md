@@ -2,6 +2,7 @@
 title: 'Choosing an API tool'
 date: 2018-05-02
 categories : ["testing"]
+layout: post
 draft: false
 ---
 

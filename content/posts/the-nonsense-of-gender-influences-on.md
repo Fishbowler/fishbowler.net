@@ -2,6 +2,7 @@
 title: 'The nonsense of gender-influences on testers'
 date: 2017-10-13
 categories : ["testing"]
+layout: post
 draft: false
 ---
 

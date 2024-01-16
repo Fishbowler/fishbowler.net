@@ -2,6 +2,7 @@
 title: 'The Persona of a Tester'
 date: 2015-04-10T05:22:00.004-07:00
 draft: false
+layout: post
 categories : ["testing"]
 ---
 

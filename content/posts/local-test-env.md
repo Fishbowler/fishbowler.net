@@ -3,6 +3,7 @@ title: 'Considerations for Local Test Environments'
 date: 2023-12-15
 categories : ["testing"]
 draft: false
+layout: post
 ---
 
 Dev, Int, Ref, Beta, Pilot, Pre-Prod, and lots of other labels for deployed environments of software that aren't The Production Environment.
