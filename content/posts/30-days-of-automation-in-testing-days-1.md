@@ -11,9 +11,9 @@ layout: post
   
   
   
-I've been meaning to complete one of the Ministry of Testing's [30 Days of Testing](https://www.ministryoftesting.com/dojo/series/30-days-of-testing) challenges for a while. I got about two thirds of the way through the first one as a team exercise, then everyone "got busy with other things", and it died a horrible death, with the checklist languishing on the wall for a couple of months as a reminder of how we'd failed.  
+I've been meaning to complete one of the Ministry of Testing's [30 Days of Testing](https://www.ministryoftesting.com/search?q=30+days) challenges for a while. I got about two thirds of the way through the first one as a team exercise, then everyone "got busy with other things", and it died a horrible death, with the checklist languishing on the wall for a couple of months as a reminder of how we'd failed.  
   
-When the latest one, [30 Days of Automation in Testing](https://www.ministryoftesting.com/dojo/lessons/30-days-of-automation-in-testing), was announced I tweeted this:  
+When the latest one, [30 Days of Automation in Testing](https://www.ministryoftesting.com/articles/30-days-of-automation-in-testing?s_id=17371526), was announced I tweeted this:  
 
 {{< tweet 1012595452708118528 >}}
 
