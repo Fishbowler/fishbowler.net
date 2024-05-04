@@ -33,6 +33,7 @@
         "NCSC's",
         "Nightwatch",
         "NottsTest",
+        "olds",
         "OWASP",
         "pentest",
         "Pluralsight",
@@ -43,13 +44,18 @@
         "repro",
         "Runscope",
         "Rutt",
+        "SAST",
         "SDLC",
         "Slideshare",
         "Snyk",
         "surevine",
         "swaggery",
+        "timesheet",
         "Timezone",
         "webserver",
         "XMPP"
+    ],
+    "circleci.persistedProjectSelection": [
+        "gh/Fishbowler/fishbowler.net"
     ]
 }
