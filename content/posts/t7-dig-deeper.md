@@ -2,7 +2,6 @@
 title: 'T7: Dig Deeper'
 date: 2016-08-29
 draft: false
-tags : [t7]
 categories : ["testing"]
 layout: post
 ---
