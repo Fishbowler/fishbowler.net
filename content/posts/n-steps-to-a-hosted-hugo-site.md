@@ -88,7 +88,7 @@ Images go in /static, but you can arrange this as you like, e.g. /static/img, th
 ![](/img/funny_cat.gif)
 {{< /highlight >}}
 
-### Step 7: Test again.
+### Step 7: Test again
 
 Whilst writing posts, you can keep the hugo server running, keep saving, and watching your post get updated live.
 

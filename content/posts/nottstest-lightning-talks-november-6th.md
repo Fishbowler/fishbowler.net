@@ -22,25 +22,20 @@ First, I spoke about The Unusual Value of Testing, an experience report from the
   
 {{< tweet 1060253387932008448 >}}
 
-  
 Next, Dave Rutt spoke about procrastination, that it's not a laziness, but a scientific inevitability when faced with more time to perform a task than is needed. If you've got 9 months to build a product, you'll procrastinate because you've got loads of time, your monkey brain finds you more entertaining/engaging tasks to do, and your limbic system never gets engaged. If you've got 2 weeks to deliver an iteration, you'll get on with it. Defeat your monkey brain with agile!  
   
 {{< tweet 1060255954527289345 >}}
-  
   
 Third, Keith spoke about hashing. Not that kind of hashing. Nope, not that kind of hashing either. This was about an athletic activity! Hashing is a collaboration of a team to complete a run with a lot of dead ends and false trails. The idea is that the team complete the run together, not that the fastest runner completes first, so for example, the fast runner could run ahead and scout dead ends.  
   
 {{< tweet 1060260672024535041 >}}
   
-  
 Next came Christian with an announcement on behalf of Ministry of Testing and the Software Testing Club. The Software Testing Clinic is starting in Nottingham, offering peering and mentoring with other testers on specific skills, all for zero pounds of your money. I'm looking forwards to trying this format out, and reckon this should be a great complementary event to NottsTest!  
 
 {{< tweet 1060261699138342913 >}}
 
-  
 Penultimate talk was by George, who spoke about the feeling of being secure on the internet, and why you're wrong. He spoke about a recent site (http://web.archive.org/web/20230607212106/https://www.nothingprivate.ml/) that demonstrated being able to see personal info from an Incognito Window, and promised a fuller talk & demo in the future.
   
 {{< tweet 1060274668320555008 >}}
 
-  
 Lastly, I had another shot at a lightning talk, this time about being Five Out Of Five, what keeps me there, the [Nine Kinds Of Motivation](https://www.lifehack.org/articles/productivity/6-types-of-motivation-explained.html), and why everyone should do something that motivates them. This generated a lot of discussion, so we're considering running an entire evening on careers, CVs, interviews and even the awkward topic of tester salaries!
