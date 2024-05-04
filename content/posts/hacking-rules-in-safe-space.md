@@ -12,10 +12,8 @@ It's a game I've both seen as part of training courses on specification ambiguit
   
 Do you remember Guess Who?  
   
-
 ![](/img/guess_who.jpg)
 
-  
 It's a game where players take turns asking yes/no questions about the appearance of the character on  their opponent's card, aiming to be first to identify the character their opponent holds.  
   
 Shared Assumptions is a game where you play the same game with the same rules, except that you _aren't allowed to ask anything about appearance_. I've played this game with friends, with kids, with colleagues, with testers. It's great fun watching people use creative thinking to hack around the seemingly impossible rules. (Writing this reminds me of [Nicola Sedgwick](https://twitter.com/nicolasedgwick)'s awesome workshop on Gamification at TestBash 2015. Nicola wrote about Gamification for The Testing Planet [here](https://www.ministryoftesting.com/articles/c78f3e91?s_id=15998985))
@@ -26,17 +24,17 @@ In facilitating this game, I always emphasise that they're playing in a "safe pl
   
 Sometimes the results are simple and creative:  
 
-*   remembers the "good old days"
-*   remembers the release of the first Godfather movie
-*   never worries about a bad hair day
-*   visits an opticians on a regular basis
+* remembers the "good old days"
+* remembers the release of the first Godfather movie
+* never worries about a bad hair day
+* visits an opticians on a regular basis
 
 Sometimes the results are plain odd:
 
-*   has large feet
-*   likes beach holidays
-*   allowed on a roller coaster
-*   has experienced a significant life trauma
+* has large feet
+* likes beach holidays
+* allowed on a roller coaster
+* has experienced a significant life trauma
 
 I've loved playing and facilitating this game, showing groups that in about two thirds of games there's no winner because the pair didn't share an assumption somewhere along the line.  
   
