@@ -42,5 +42,3 @@ Google haven’t given stronger details beyond the above on what will be patchab
 The single caveat is that we can’t expect this to change overnight. The most recent [distribution numbers](https://developer.android.com/about/dashboards) from Google show that Android 9 was on just over 10% of running devices a full nine months after its release. Speed of availability aside, Android has higher-than-average uptake amongst technically-savvy users, but lower-than-average uptake by security-conscious businesses. This is a smart and very welcome move on Google’s part.
 
 I’m pleased to have a device running Android 10, and looking forward to seeing my device of choice more readily adopted by businesses, being a first class citizen in BYOD, and less often getting the shifty eye from the security guy for bringing a potentially insecure device into our company network.
-
-_A version of this blog post originally appeared on [surevine.com](https://www.surevine.com/what-is-android-project-mainline/)_
