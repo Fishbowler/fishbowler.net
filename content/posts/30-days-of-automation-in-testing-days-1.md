@@ -12,7 +12,7 @@ I've been meaning to complete one of the Ministry of Testing's [30 Days of Testi
   
 When the latest one, [30 Days of Automation in Testing](https://www.ministryoftesting.com/articles/30-days-of-automation-in-testing?s_id=17371526), was announced I tweeted this:  
 
-{{< tweet 1012595452708118528 >}}
+{{< tweet id="1012595452708118528" user="Fishbowler" >}}
 
 And so here we are, with 11 days of July done, and I thought I had better start writing up what I've been doing & thinking so far.  
   
