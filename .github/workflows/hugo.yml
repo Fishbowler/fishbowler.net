@@ -56,6 +56,19 @@ jobs:
           hugo \
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: "3.3"
+      - name: Run tests
+        run: |
+          gem install html-proofer
+          htmlproofer ./public \
+            --allow-hash-href \
+            --check-html \
+            --internal-domains='fishbowler.net','fishbowler-net.web.app','fishbowler.github.io' \
+            --empty-alt-ignore \
+            --http-status-ignore=429,999 \
+            --url-ignore='http://localhost:1313','https://developer.android.com/about/dashboards','https://source.android.com/security/bulletin/2019-08-01#2019-08-05-details','/t.co/','/twitter.com/','https://gmpg.org/xfn/11'
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
